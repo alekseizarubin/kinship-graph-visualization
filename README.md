@@ -16,7 +16,7 @@ A Python script to visualize kinship groups from PLINK genome files as graphs. T
 Clone the repository and install the required Python packages.
 
 ```bash
-git clone https://github.com/yourusername/kinship-graph-visualization.git
+git clone https://github.com/alekseizarubin/kinship-graph-visualization.git
 cd kinship-graph-visualization
 pip install -r requirements.txt
 ```
