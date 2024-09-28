@@ -21,16 +21,7 @@ cd kinship-graph-visualization
 conda create --name kinship-env python=3.8
 conda activate kinship-env
 conda install pandas numpy matplotlib networkx
-
-## Requirements
-
-- Python 3.6 or higher
-- Packages listed in `requirements.txt`:
-  - pandas
-  - numpy
-  - matplotlib
-  - networkx
-  - argparse
+```
 
 ## Usage
 
