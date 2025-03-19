@@ -16,7 +16,7 @@ A Python script to visualize kinship groups from PLINK genome files as graphs. T
 Clone the repository and create a conda environment with the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/kinship-graph-visualization.git
+git clone https://github.com/alekseizarubin/kinship-graph-visualization.git
 cd kinship-graph-visualization
 conda create --name kinship-env python=3.8
 conda activate kinship-env
